@@ -1,2 +1,2 @@
 # mysharecodeM6_5
-{mycode}(frist01.py)
+[mycode](frist01.py)
